@@ -1,0 +1,201 @@
+Nombre,Edad,Género,Ciudad,Nivel_Educativo,Ocupación,Ingresos
+Persona_1,39,M,La Plata,Terciario,Estudiante,246165
+Persona_2,33,M,Mendoza,Secundario,Desempleado/a,149088
+Persona_3,41,F,Rosario,Universitario,Jubilado/a,283518
+Persona_4,50,M,Buenos Aires,Terciario,Empleado/a,211192
+Persona_5,32,F,Buenos Aires,Primario,Empleado/a,102947
+Persona_6,32,F,Córdoba,Secundario,Jubilado/a,149196
+Persona_7,50,F,Rosario,Universitario,Empleado/a,193313
+Persona_8,42,M,Mendoza,Universitario,Empleado/a,273574
+Persona_9,30,M,La Plata,Primario,Empleado/a,85495
+Persona_10,40,F,La Plata,Secundario,Estudiante,145580
+Persona_11,30,F,Mendoza,Secundario,Estudiante,136360
+Persona_12,30,M,Córdoba,Universitario,Independiente,291980
+Persona_13,37,F,La Plata,Primario,Desempleado/a,100894
+Persona_14,18,M,Rosario,Secundario,Jubilado/a,170991
+Persona_15,18,F,Córdoba,Universitario,Jubilado/a,255937
+Persona_16,29,M,Rosario,Secundario,Jubilado/a,143593
+Persona_17,24,F,Buenos Aires,Universitario,Independiente,263089
+Persona_18,38,M,Córdoba,Secundario,Estudiante,162270
+Persona_19,25,F,La Plata,Primario,Independiente,105988
+Persona_20,20,M,Córdoba,Secundario,Jubilado/a,154489
+Persona_21,49,M,Córdoba,Universitario,Desempleado/a,276509
+Persona_22,32,F,Córdoba,Universitario,Empleado/a,231233
+Persona_23,35,F,Córdoba,Universitario,Estudiante,229851
+Persona_24,20,M,Rosario,Terciario,Estudiante,190734
+Persona_25,29,F,Buenos Aires,Universitario,Independiente,216409
+Persona_26,36,M,Mendoza,Secundario,Estudiante,140645
+Persona_27,23,F,Córdoba,Secundario,Jubilado/a,124340
+Persona_28,38,M,La Plata,Universitario,Jubilado/a,239540
+Persona_29,28,M,Córdoba,Primario,Independiente,95175
+Persona_30,32,M,La Plata,Primario,Jubilado/a,103581
+Persona_31,28,M,Rosario,Secundario,Desempleado/a,151038
+Persona_32,53,M,La Plata,Primario,Independiente,70026
+Persona_33,34,M,Mendoza,Secundario,Desempleado/a,147208
+Persona_34,24,F,Buenos Aires,Terciario,Empleado/a,247850
+Persona_35,43,F,La Plata,Terciario,Desempleado/a,203760
+Persona_36,22,F,La Plata,Universitario,Empleado/a,283165
+Persona_37,37,M,Buenos Aires,Universitario,Empleado/a,215609
+Persona_38,18,M,Mendoza,Secundario,Desempleado/a,148717
+Persona_39,21,M,Córdoba,Secundario,Independiente,159070
+Persona_40,36,M,La Plata,Terciario,Jubilado/a,217529
+Persona_41,42,F,Buenos Aires,Terciario,Jubilado/a,195673
+Persona_42,36,F,Rosario,Secundario,Empleado/a,181890
+Persona_43,33,M,Buenos Aires,Universitario,Empleado/a,280294
+Persona_44,31,F,Rosario,Terciario,Independiente,191879
+Persona_45,20,F,Mendoza,Terciario,Estudiante,225564
+Persona_46,27,M,Córdoba,Terciario,Desempleado/a,221335
+Persona_47,30,F,Buenos Aires,Secundario,Empleado/a,148748
+Persona_48,45,M,La Plata,Posgrado,Jubilado/a,355680
+Persona_49,38,F,Mendoza,Universitario,Independiente,278223
+Persona_50,18,M,Buenos Aires,Secundario,Desempleado/a,161001
+Persona_51,38,M,La Plata,Universitario,Independiente,263214
+Persona_52,31,M,Buenos Aires,Terciario,Desempleado/a,234103
+Persona_53,28,M,Rosario,Universitario,Desempleado/a,251217
+Persona_54,41,F,Buenos Aires,Universitario,Empleado/a,212684
+Persona_55,45,M,Buenos Aires,Terciario,Independiente,192626
+Persona_56,44,M,Buenos Aires,Primario,Independiente,104184
+Persona_57,26,M,Mendoza,Secundario,Jubilado/a,158275
+Persona_58,31,F,Buenos Aires,Terciario,Jubilado/a,255263
+Persona_59,38,M,La Plata,Universitario,Empleado/a,299173
+Persona_60,44,F,Rosario,Secundario,Empleado/a,161379
+Persona_61,30,M,Rosario,Secundario,Estudiante,129704
+Persona_62,33,F,Buenos Aires,Universitario,Jubilado/a,259926
+Persona_63,23,F,Mendoza,Posgrado,Desempleado/a,366902
+Persona_64,23,M,Mendoza,Terciario,Independiente,198605
+Persona_65,43,F,La Plata,Secundario,Empleado/a,131586
+Persona_66,48,M,Buenos Aires,Secundario,Independiente,135289
+Persona_67,34,M,Rosario,Primario,Independiente,83615
+Persona_68,45,M,Mendoza,Posgrado,Estudiante,293901
+Persona_69,38,F,Buenos Aires,Secundario,Jubilado/a,169134
+Persona_70,28,F,Mendoza,Terciario,Empleado/a,146177
+Persona_71,38,M,Mendoza,Secundario,Independiente,166769
+Persona_72,50,M,Rosario,Terciario,Empleado/a,208042
+Persona_73,34,F,Córdoba,Universitario,Desempleado/a,223045
+Persona_74,50,M,La Plata,Universitario,Estudiante,249249
+Persona_75,18,M,La Plata,Secundario,Desempleado/a,161156
+Persona_76,43,M,Rosario,Primario,Empleado/a,95421
+Persona_77,35,F,Mendoza,Secundario,Empleado/a,159730
+Persona_78,32,F,Buenos Aires,Posgrado,Jubilado/a,348750
+Persona_79,35,F,Mendoza,Universitario,Independiente,239887
+Persona_80,18,M,Rosario,Terciario,Independiente,204260
+Persona_81,32,M,La Plata,Universitario,Desempleado/a,205453
+Persona_82,38,M,Mendoza,Universitario,Estudiante,214896
+Persona_83,49,F,La Plata,Secundario,Independiente,165183
+Persona_84,29,M,Buenos Aires,Posgrado,Jubilado/a,323171
+Persona_85,26,M,La Plata,Terciario,Desempleado/a,229914
+Persona_86,29,M,La Plata,Terciario,Desempleado/a,177879
+Persona_87,44,M,Córdoba,Terciario,Jubilado/a,236779
+Persona_88,38,F,Córdoba,Primario,Estudiante,115598
+Persona_89,29,F,Córdoba,Secundario,Jubilado/a,137885
+Persona_90,40,M,La Plata,Universitario,Estudiante,263799
+Persona_91,35,F,Rosario,Primario,Jubilado/a,130200
+Persona_92,44,F,La Plata,Universitario,Jubilado/a,218592
+Persona_93,27,M,Rosario,Secundario,Empleado/a,164379
+Persona_94,31,M,Rosario,Terciario,Desempleado/a,193729
+Persona_95,31,F,Córdoba,Secundario,Jubilado/a,193300
+Persona_96,20,M,Mendoza,Terciario,Jubilado/a,212695
+Persona_97,37,F,Buenos Aires,Universitario,Independiente,191009
+Persona_98,37,M,Córdoba,Secundario,Desempleado/a,145574
+Persona_99,35,F,Córdoba,Terciario,Independiente,195821
+Persona_100,32,M,Mendoza,Terciario,Desempleado/a,218371
+Persona_101,20,F,Buenos Aires,Universitario,Independiente,230459
+Persona_102,30,F,La Plata,Posgrado,Jubilado/a,368088
+Persona_103,31,F,La Plata,Universitario,Jubilado/a,197177
+Persona_104,26,M,Córdoba,Secundario,Empleado/a,175795
+Persona_105,33,F,Buenos Aires,Primario,Independiente,96864
+Persona_106,39,F,Córdoba,Secundario,Estudiante,126082
+Persona_107,53,M,Rosario,Terciario,Empleado/a,180377
+Persona_108,36,M,Córdoba,Primario,Independiente,106292
+Persona_109,37,F,Córdoba,Terciario,Independiente,205617
+Persona_110,34,F,La Plata,Terciario,Empleado/a,231564
+Persona_111,18,M,La Plata,Secundario,Jubilado/a,153691
+Persona_112,34,M,La Plata,Universitario,Independiente,273350
+Persona_113,35,M,Rosario,Secundario,Jubilado/a,149932
+Persona_114,59,M,La Plata,Primario,Empleado/a,114329
+Persona_115,33,M,Buenos Aires,Universitario,Jubilado/a,246347
+Persona_116,38,F,Mendoza,Terciario,Desempleado/a,246352
+Persona_117,34,M,Buenos Aires,Universitario,Estudiante,282662
+Persona_118,23,F,Buenos Aires,Terciario,Independiente,172009
+Persona_119,46,F,La Plata,Secundario,Estudiante,147047
+Persona_120,42,F,Mendoza,Universitario,Jubilado/a,249174
+Persona_121,42,M,Mendoza,Universitario,Independiente,264063
+Persona_122,25,F,Mendoza,Universitario,Jubilado/a,246995
+Persona_123,49,F,Rosario,Secundario,Desempleado/a,133462
+Persona_124,20,M,La Plata,Terciario,Empleado/a,193221
+Persona_125,40,F,Mendoza,Terciario,Independiente,218421
+Persona_126,56,F,Rosario,Primario,Desempleado/a,107739
+Persona_127,25,M,Córdoba,Posgrado,Desempleado/a,235394
+Persona_128,29,F,Córdoba,Secundario,Independiente,135308
+Persona_129,35,F,Rosario,Posgrado,Jubilado/a,307057
+Persona_130,29,F,Rosario,Terciario,Desempleado/a,202153
+Persona_131,19,M,La Plata,Secundario,Estudiante,168078
+Persona_132,35,M,La Plata,Terciario,Desempleado/a,181799
+Persona_133,24,M,Córdoba,Universitario,Jubilado/a,221400
+Persona_134,39,F,Mendoza,Universitario,Jubilado/a,241245
+Persona_135,25,F,Córdoba,Universitario,Estudiante,345793
+Persona_136,50,M,Mendoza,Universitario,Desempleado/a,253398
+Persona_137,27,F,Mendoza,Universitario,Jubilado/a,282401
+Persona_138,31,F,La Plata,Universitario,Independiente,264541
+Persona_139,43,M,Buenos Aires,Secundario,Empleado/a,170599
+Persona_140,22,M,Buenos Aires,Terciario,Empleado/a,173311
+Persona_141,37,F,Rosario,Secundario,Empleado/a,159047
+Persona_142,48,F,La Plata,Posgrado,Desempleado/a,313031
+Persona_143,18,F,Mendoza,Posgrado,Estudiante,306738
+Persona_144,36,M,Buenos Aires,Primario,Jubilado/a,119763
+Persona_145,37,M,Mendoza,Universitario,Independiente,249313
+Persona_146,42,M,Buenos Aires,Posgrado,Independiente,285327
+Persona_147,22,M,Buenos Aires,Secundario,Desempleado/a,131551
+Persona_148,21,F,Buenos Aires,Terciario,Empleado/a,189209
+Persona_149,40,M,La Plata,Posgrado,Desempleado/a,281415
+Persona_150,37,M,Córdoba,Primario,Estudiante,103017
+Persona_151,37,M,Mendoza,Universitario,Estudiante,308167
+Persona_152,38,M,La Plata,Secundario,Jubilado/a,160278
+Persona_153,28,M,La Plata,Posgrado,Jubilado/a,326902
+Persona_154,37,F,La Plata,Posgrado,Estudiante,295184
+Persona_155,37,F,La Plata,Posgrado,Estudiante,313279
+Persona_156,27,M,La Plata,Terciario,Estudiante,189112
+Persona_157,53,F,Rosario,Universitario,Desempleado/a,282579
+Persona_158,39,M,Mendoza,Universitario,Estudiante,243296
+Persona_159,23,M,La Plata,Secundario,Independiente,143936
+Persona_160,41,F,Mendoza,Universitario,Empleado/a,246866
+Persona_161,25,F,Rosario,Primario,Estudiante,101050
+Persona_162,42,M,Rosario,Terciario,Empleado/a,225026
+Persona_163,46,M,Mendoza,Secundario,Desempleado/a,113387
+Persona_164,26,M,Buenos Aires,Secundario,Empleado/a,182245
+Persona_165,44,F,Córdoba,Primario,Desempleado/a,101131
+Persona_166,39,M,Buenos Aires,Universitario,Independiente,251308
+Persona_167,43,M,Buenos Aires,Secundario,Desempleado/a,153892
+Persona_168,53,M,Buenos Aires,Universitario,Desempleado/a,207810
+Persona_169,32,F,La Plata,Primario,Jubilado/a,77429
+Persona_170,27,M,Rosario,Secundario,Estudiante,156383
+Persona_171,26,M,Buenos Aires,Terciario,Estudiante,205329
+Persona_172,26,F,Rosario,Universitario,Independiente,307035
+Persona_173,34,M,Mendoza,Secundario,Independiente,119725
+Persona_174,38,M,Córdoba,Universitario,Estudiante,235508
+Persona_175,37,F,Mendoza,Universitario,Jubilado/a,223264
+Persona_176,43,M,Mendoza,Universitario,Estudiante,246062
+Persona_177,35,F,La Plata,Secundario,Jubilado/a,136999
+Persona_178,49,F,Córdoba,Primario,Independiente,121163
+Persona_179,32,M,Mendoza,Universitario,Empleado/a,260845
+Persona_180,62,M,Mendoza,Primario,Independiente,101628
+Persona_181,41,M,Córdoba,Universitario,Independiente,219169
+Persona_182,26,M,Córdoba,Terciario,Desempleado/a,210679
+Persona_183,24,F,Mendoza,Posgrado,Desempleado/a,355698
+Persona_184,39,M,Córdoba,Universitario,Desempleado/a,245970
+Persona_185,32,F,Mendoza,Posgrado,Desempleado/a,341301
+Persona_186,42,M,Mendoza,Terciario,Jubilado/a,189729
+Persona_187,39,M,La Plata,Universitario,Estudiante,291870
+Persona_188,34,M,Buenos Aires,Terciario,Empleado/a,179853
+Persona_189,26,F,Mendoza,Terciario,Independiente,199339
+Persona_190,19,M,Rosario,Universitario,Jubilado/a,266388
+Persona_191,30,M,Buenos Aires,Universitario,Empleado/a,238899
+Persona_192,43,M,Buenos Aires,Posgrado,Jubilado/a,286647
+Persona_193,37,M,Buenos Aires,Universitario,Jubilado/a,263431
+Persona_194,22,F,La Plata,Terciario,Independiente,203573
+Persona_195,36,M,Mendoza,Terciario,Estudiante,154973
+Persona_196,38,F,La Plata,Universitario,Desempleado/a,190621
+Persona_197,26,F,Mendoza,Secundario,Estudiante,154784
+Persona_198,36,F,La Plata,Secundario,Independiente,172019
+Persona_199,35,F,La Plata,Terciario,Independiente,266108
+Persona_200,23,F,Rosario,Secundario,Independiente,171715
